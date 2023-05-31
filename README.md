@@ -38,4 +38,3 @@ I'm a software engineer working with Armata B64 to develop software to mitigate 
     <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png"></code>&nbsp;&nbsp;&nbsp;
 </div>
 <br /><br />
-<h2 align="center" style="color:lightblue">📊 My stats 📊</h2><br />
