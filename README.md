@@ -25,7 +25,7 @@ I'm a software engineer working with Armata B64 to develop software to mitigate 
 </ul><br /><br /> -->
 
 **🌐 My blog posts:**
-- [Sotsock - Steal any program's sockets](https://idov31.github.io/2021/08/19/list-udp-connections.html)
+- [Sotsock - Steal any program's sockets](https://b64-cryptzo.github.io/2023/05/30/Sotsock.html)
 
 <br />
 
